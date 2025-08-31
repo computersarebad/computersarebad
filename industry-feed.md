@@ -22,6 +22,7 @@
 - [Software Engineering Daily](https://softwareengineeringdaily.com/) - In-depth technical interviews and discussions
 - [The Changelog](https://www.youtube.com/playlist?list=PLCzseuA9sYrf9nHWFF1dQsk-X5cghL6UH) - Open source projects and developer stories
 - [Software Engineering Radio](https://se-radio.net/) - Long-form technical discussions
+- [Absolute AppSec](https://news.absoluteappsec.com/) - Application security discussions
 
 ---
 
